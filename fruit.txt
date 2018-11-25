@@ -1,6 +1,6 @@
 apple
 orange
 banana
-pearr
-peachh
-grapee
+pear
+peach
+grape
