@@ -1,6 +1,6 @@
 carrots
 potatoes
 watercress
-wheatt
-ricee
-tomatoess
+wheat
+rice
+tomatoes
