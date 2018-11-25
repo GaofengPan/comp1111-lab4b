@@ -1,6 +1,9 @@
 carrots
 potatoes
 watercress
-wheat
+onions
 rice
 tomatoes
+eggplant
+egg
+vegetable
