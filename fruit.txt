@@ -1,6 +1,8 @@
-apple
+grapefruit
 orange
 banana
 pear
 peach
 grape
+pomegranate
+watermelon
