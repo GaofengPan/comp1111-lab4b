@@ -1,4 +1,6 @@
 carrots
 potatoes
 watercress
-
+wheat
+rice
+tomatoes
