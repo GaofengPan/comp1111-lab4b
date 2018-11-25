@@ -2,5 +2,8 @@ coffee
 beer
 tea
 juice
-cola
+cocacola
 milk
+water
+apple juice
+pear juice
